@@ -28,3 +28,5 @@ http://www.google.com
 |test1|test2|test3|
 |test1|test2|test3|
 |test1|test2|test3|
+
+//이미지도 사용
