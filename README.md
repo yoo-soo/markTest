@@ -2,8 +2,7 @@
 
 ### PROFILE
 ------------
-![증명사진](YSK.jpg)
-<img src = YSK.jpg height=150 width=150>
+<img src = YSK.jpg height=300 width=150>
 ------------
 1. 이름 : 유수경 ( 柳 秀 京 , SOOKYUNG YOO)
 2. 생년월일 : 2000.01.03
