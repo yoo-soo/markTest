@@ -1,14 +1,19 @@
 #  PORTFOLIO
 
 ### PROFILE
-![21_04_05](https://user-images.githubusercontent.com/80819675/135742703-bde420dc-bfb3-48bd-a07b-33d6f9cbe20d.jpg)
+![123123131](https://user-images.githubusercontent.com/80819675/135742938-14b78871-16e8-45ca-a9b6-d3823496f912.jpg)
 
-1. 이름 : 유수경
+1. 이름 : 유수경 ( 柳 秀 京 , SOOKYUNG YOO)
 2. 생년월일 : 2000.01.03
-3. 학력 : 부양초등학교 
-          토평중학교 
-          구리여자고등학교
-          한림대학교 ( 2020.3 ~ )
+3. 학력사항 : 한림대학교
+| 주전공 | 복수전공 |
+|---|---|
+| 빅데이터 | 스마트IoT|
+5. 학번 : 20205209
+6. 학과 : 소프트웨어융합대학 
+7. MBTI : ENTJ
+8. E-mail : tntmd8006@naver.com
+
 
 > 블록인용문자 1
 >> 블록인용문자 2-1
@@ -25,6 +30,9 @@
 
 ### 사용 가능 언어
 + JAVA
++ C
++ R
++ PYTHON
   + ARDUINO
     + PYTHON
  
@@ -42,4 +50,3 @@ http://www.google.com
 |test1|test2|test3|
 |test1|test2|test3|
 
-//이미지도 사용
