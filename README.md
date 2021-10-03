@@ -2,7 +2,7 @@
 
 ### PROFILE
 ------------
-![123123131](https://user-images.githubusercontent.com/80819675/135742938-14b78871-16e8-45ca-a9b6-d3823496f912.jpg)
+![증명사진](YSK.png)
 ------------
 1. 이름 : 유수경 ( 柳 秀 京 , SOOKYUNG YOO)
 2. 생년월일 : 2000.01.03
