@@ -14,6 +14,7 @@
  + 복수전공 : 스마트IoT 
 4. 학번 : 20205209 
 5. E-mail : tntmd8006@naver.com
+6. GitHub : https://github.com/yoo-soo
 ------------
 
 > ### 목차
@@ -96,7 +97,25 @@
     - 스마트 화분
 
    * UNITY
-    - 
+    - 벽피하기 점프 게임
+    - 러닝 점프볼 게임
+    - 방탈출 호러  게임
+
+   * PYTHON
+    - Turtle로 도형 그리기
+
+   * JAVASCRIPT
+    - 도서관 시스템 관리 프로그램
+    - 오목 프로그램 
+
+   * JAVA
+    - 문자열 수, 역방향 출력 프로그램
+
+   * R
+    - 잠실 버스 총 승차, 하차 승객 수 정류장 별 분석 ( + 그래프 )
+    
+   * SECURITY
+    - 운영체제 명령실행 취약점 DVWA 실습
 
 ### 자주 사용하는 검색엔진</span>
 http://www.google.com \
